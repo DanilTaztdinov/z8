@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">zad8</string>
+    <string name="password">Пароль</string>
+    <string name="login">Адресс электронной почты</string>
+    <string name="reg">Регистрация</string>
+    <string name="name">Имя пользователя</string>
+    <string name="dela">Список дел</string>
+    <string name="zad">Добавить задачу</string>
+    <string name="zagolovok">Заголовок задачи</string>
+    <string name="time">16:30</string>
+    <string name="data">07.12.2022</string>
+    <string name="opisanie">Описание задачи</string>
+    <string name="zapis">Записать задачу</string>
+    <string name="delete">Удалить задачу</string>
+    <string name="izm">Изменить задачу</string>
+
+</resources>
